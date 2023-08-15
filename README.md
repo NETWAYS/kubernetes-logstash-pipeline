@@ -1,5 +1,6 @@
 # kubernetes-logstash-pipeline
 Ready made code to parse logs from Kubernetes
+**!!! Currently the Pipeline will works for kubernetes cluster which is runing with containerd as CRI.**
 
 ## Input and Output ##
 
